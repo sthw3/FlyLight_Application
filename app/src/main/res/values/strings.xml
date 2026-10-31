@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlyLight_Application</string>
+    <string name="instructions" formatted="false">
+        How to use:\n1.
+        Enter weight\n2.
+        Choose ticket class\n3.
+        Enter excess baggage rate per kg\n4\.
+        Tap <b>Calculate</b>\n\n<b>Baggage limit</b>: Economy 20 kg, Business 40 kg. 8% service tax added.</string>
+</resources>
