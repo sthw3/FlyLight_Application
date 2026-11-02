@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
             i.setType("text/plain");
             i.putExtra(Intent.EXTRA_SUBJECT, "FlyLight Baggage Estimator");
             i.putExtra(Intent.EXTRA_TEXT,
-                    "Share this link: https://github.com/sthw3/flylight-baggage-estimator-hawa");
+                    "Share this link: https://github.com/sthw3/FlyLight_Application");
             startActivity(Intent.createChooser(i, "Share via"));
             return true;
         }

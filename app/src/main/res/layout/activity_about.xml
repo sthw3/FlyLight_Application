@@ -172,7 +172,7 @@
                     android:layout_marginTop="8dp"
                     android:autoLink="web"
                     android:linksClickable="true"
-                    android:text="https://github.com/sthw3/flylight-baggage-estimator-hawa"
+                    android:text="https://github.com/sthw3/FlyLight_Application"
                     android:textSize="15sp" />
             </LinearLayout>
         </com.google.android.material.card.MaterialCardView>
